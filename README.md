@@ -63,10 +63,10 @@ A full-stack premium jewellery storefront and custom Admin CMS. Engineered with 
 ### 📫 Let's Connect
 
 <p align="left">
-<a href="mailto:your.email@example.com" target="_blank">
+<a href="mailto:abdullaharshad2k5@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/mabdullahhh" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </p>
