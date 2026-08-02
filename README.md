@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Abdullah Arshad 👋
 
-<!--
-**abdullah-arshadd/abdullah-arshadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Building%20Luxury%20Web%20Experiences&fontSize=30&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=62" alt="Header Banner" />
+</div>
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate Full-Stack Developer and a university student, currently focused on engineering high-end, responsive web applications and exploring deep tech architectures. I enjoy blending seamless user experiences with robust backend infrastructures.
+
+* 🎓 **Currently Studying:** Deep diving into Database Systems, Computer Networks (Cisco Packet Tracer), and Computer Architecture (COAL).
+* 💻 **Currently Building:** Luxury E-Commerce Platforms (like *Glint and Glam*) using Next.js 14 and Prisma.
+* 🌱 **Always Learning:** Advanced state management, fluid animations (Framer Motion), and scalable API routing.
+* ⚡ **Fun Fact:** I believe in writing code that not only works perfectly but looks aesthetically pleasing.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Frontend Development:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue" />
+</p>
+
+**Backend & Database:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/SWR-black?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+**Networking & Architecture:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database_Design-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+### 🔥 Featured Project
+
+**Glint & Glam - Luxury E-Commerce Store**  
+A full-stack premium jewellery storefront and custom Admin CMS. Engineered with a responsive multi-level product catalog, real-time variant tracking, and dynamic shopping carts. 
+* **Stack:** Next.js, Prisma, Tailwind CSS, SWR, Framer Motion.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullah-arshadd&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-arshadd&theme=radium&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+<a href="mailto:your.email@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</p>
